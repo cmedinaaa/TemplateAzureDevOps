@@ -1,0 +1,9 @@
+{
+  "parameters": {
+    "gitSource": {
+      "url": "https://dev.azure.com/sigma-alimentos/AzureCLITest/_git/AzureCLITest"
+    },
+    "serviceEndpointId": "$AzureCLITest-code$",
+    "deleteServiceEndpointAfterImportIsDone": true
+  }
+}

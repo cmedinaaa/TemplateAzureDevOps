@@ -1,0 +1,16 @@
+{
+  "data": {
+
+  },
+  "name": "AzureCLITest-code",
+  "type": "git",
+  "url": "https://dev.azure.com/sigma-alimentos/AzureCLITest/_git/AzureCLITest",
+  "authorization": {
+    "scheme": "UsernamePassword",
+    "parameters": {
+      "username": "$username$",
+      "password": "$password$"
+    }
+  },
+  "isReady": true
+}

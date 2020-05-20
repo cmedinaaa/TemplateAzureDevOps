@@ -1,0 +1,252 @@
+{
+  "Extensions": [
+    {
+      "extensionName": "Easy Estimations",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=agileestimator.agile-estimator' target='_blank'><b>Easy Estimations</b></a>",
+      "publisherId": "agileestimator",
+      "extensionId": "agile-estimator",
+      "publisherName": "Easy Extensions",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=agileestimator.agile-estimator' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "AWS Toolkit for Azure DevOps",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-vsts-tools' target='_blank'><b>AWS Toolkit for Azure DevOps</b></a>",
+      "publisherId": "AmazonWebServices",
+      "extensionId": "aws-vsts-tools",
+      "publisherName": "Amazon Web Services",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-vsts-tools' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Secure DevOps Kit (AzSK) CICD Extensions for Azure",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=azsdktm.AzSDK-task' target='_blank'><b>Secure DevOps Kit (AzSK) CICD Extensions for Azure</b></a>",
+      "publisherId": "azsdktm",
+      "extensionId": "AzSDK-task",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=azsdktm.AzSDK-task' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Checkmarx CxSAST",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=checkmarx.cxsast' target='_blank'><b>Checkmarx CxSAST</b></a>",
+      "publisherId": "checkmarx",
+      "extensionId": "cxsast",
+      "publisherName": "Checkmarx",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=checkmarx.cxsast' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Activity Feed",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=davesmits.VSTSActivityFeed' target='_blank'><b>Activity Feed</b></a>",
+      "publisherId": "davesmits",
+      "extensionId": "VSTSActivityFeed",
+      "publisherName": "Dave Smits",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=davesmits.VSTSActivityFeed' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "ARM Outputs",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=keesschollaart.arm-outputs' target='_blank'><b>ARM Outputs</b></a>",
+      "publisherId": "keesschollaart",
+      "extensionId": "arm-outputs",
+      "publisherName": "Kees Schollaart",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=keesschollaart.arm-outputs' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Lightweight document management",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=likollee.tfsdocmgt' target='_blank'><b>Lightweight document management</b></a>",
+      "publisherId": "likollee",
+      "extensionId": "tfsdocmgt",
+      "publisherName": "Likol Lee",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=likollee.tfsdocmgt' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Trigger Azure DevOps Pipeline",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=maikvandergaag.maikvandergaag-trigger-pipeline' target='_blank'><b>Trigger Azure DevOps Pipeline</b></a>",
+      "publisherId": "maikvandergaag",
+      "extensionId": "maikvandergaag-trigger-pipeline",
+      "publisherName": "Maik van der Gaag",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=maikvandergaag.maikvandergaag-trigger-pipeline' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Work item checklist",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=mohitbagra.workitem-checklist' target='_blank'><b>Work item checklist</b></a>",
+      "publisherId": "mohitbagra",
+      "extensionId": "workitem-checklist",
+      "publisherName": "Mohit Bagra",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=mohitbagra.workitem-checklist' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Estimate",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.estimate' target='_blank'><b>Estimate</b></a>",
+      "publisherId": "ms-devlabs",
+      "extensionId": "estimate",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.estimate' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Retrospectives",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives' target='_blank'><b>Retrospectives</b></a>",
+      "publisherId": "ms-devlabs",
+      "extensionId": "team-retrospectives",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.team-retrospectives' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Multivalue control",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.vsts-extensions-multivalue-control' target='_blank'><b>Multivalue control</b></a>",
+      "publisherId": "ms-devlabs",
+      "extensionId": "vsts-extensions-multivalue-control",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.vsts-extensions-multivalue-control' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Feature timeline and Epic Roadmap",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.workitem-feature-timeline-extension' target='_blank'><b>Feature timeline and Epic Roadmap</b></a>",
+      "publisherId": "ms-devlabs",
+      "extensionId": "workitem-feature-timeline-extension",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.workitem-feature-timeline-extension' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Work Item Visualization",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.WorkItemVisualization' target='_blank'><b>Work Item Visualization</b></a>",
+      "publisherId": "ms-devlabs",
+      "extensionId": "WorkItemVisualization",
+      "publisherName": "Microsoft DevLabs",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-devlabs.WorkItemVisualization' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Dependency Tracker",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-eswm.dependencytracker' target='_blank'><b>Dependency Tracker</b></a>",
+      "publisherId": "ms-eswm",
+      "extensionId": "dependencytracker",
+      "publisherName": "Microsoft",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-eswm.dependencytracker' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "OpenAPI Document Tools",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-openapi.OpenApiDocumentTools' target='_blank'><b>OpenAPI Document Tools</b></a>",
+      "publisherId": "ms-openapi",
+      "extensionId": "OpenApiDocumentTools",
+      "publisherName": "Microsoft",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-openapi.OpenApiDocumentTools' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Docker Integration",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-vscs-rm.docker' target='_blank'><b>Docker Integration</b></a>",
+      "publisherId": "ms-vscs-rm",
+      "extensionId": "docker",
+      "publisherName": "Microsoft",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms-vscs-rm.docker' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Test Charts",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=NebbiaTechnology.nebbia-test-charts' target='_blank'><b>Test Charts</b></a>",
+      "publisherId": "NebbiaTechnology",
+      "extensionId": "nebbia-test-charts",
+      "publisherName": "Nebbia Technology",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=NebbiaTechnology.nebbia-test-charts' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Octopus Deploy Integration",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=octopusdeploy.octopus-deploy-build-release-tasks' target='_blank'><b>Octopus Deploy Integration</b></a>",
+      "publisherId": "octopusdeploy",
+      "extensionId": "octopus-deploy-build-release-tasks",
+      "publisherName": "Octopus Deploy",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=octopusdeploy.octopus-deploy-build-release-tasks' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Contributions Graph",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ottostreifel.contributions' target='_blank'><b>Contributions Graph</b></a>",
+      "publisherId": "ottostreifel",
+      "extensionId": "contributions",
+      "publisherName": "Otto Streifel",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ottostreifel.contributions' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Replace Tokens",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=qetza.replacetokens' target='_blank'><b>Replace Tokens</b></a>",
+      "publisherId": "qetza",
+      "extensionId": "replacetokens",
+      "publisherName": "Guillaume Rouchon",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=qetza.replacetokens' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Dynatrace Test Automation",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=realdolmen.dynatrace-test-automation' target='_blank'><b>Dynatrace Test Automation</b></a>",
+      "publisherId": "realdolmen",
+      "extensionId": "dynatrace-test-automation",
+      "publisherName": "Realdolmen",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=realdolmen.dynatrace-test-automation' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "[DEPRECATED] Query based boards",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=realdolmen.querybasedboards' target='_blank'><b>[DEPRECATED] Query based boards</b></a>",
+      "publisherId": "realdolmen",
+      "extensionId": "querybasedboards",
+      "publisherName": "Realdolmen",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=realdolmen.querybasedboards' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Pull Request Dashboard",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ryanstedman.tfs-pullrequest-dashboard' target='_blank'><b>Pull Request Dashboard</b></a>",
+      "publisherId": "ryanstedman",
+      "extensionId": "tfs-pullrequest-dashboard",
+      "publisherName": "Ryan Stedman",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ryanstedman.tfs-pullrequest-dashboard' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "SonarCloud",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarcloud' target='_blank'><b>SonarCloud</b></a>",
+      "publisherId": "SonarSource",
+      "extensionId": "sonarcloud",
+      "publisherName": "SonarSource",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarcloud' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "API Management Suite",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=stephane-eyskens.apim' target='_blank'><b>API Management Suite</b></a>",
+      "publisherId": "stephane-eyskens",
+      "extensionId": "apim",
+      "publisherName": "Stephane Eyskens",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=stephane-eyskens.apim' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Time Logging Extension",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=TimeLog.time-logging-extension' target='_blank'><b>Time Logging Extension</b></a>",
+      "publisherId": "TimeLog",
+      "extensionId": "time-logging-extension",
+      "publisherName": "TimeLog",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=TimeLog.time-logging-extension' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Real Sprint burndown",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=tomkamphuis.vsts-extensions-myExtensions' target='_blank'><b>Real Sprint burndown</b></a>",
+      "publisherId": "tomkamphuis",
+      "extensionId": "vsts-extensions-myExtensions",
+      "publisherName": "Tom Kamphuis",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=tomkamphuis.vsts-extensions-myExtensions' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "WhiteSource Bolt",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=whitesource.ws-bolt' target='_blank'><b>WhiteSource Bolt</b></a>",
+      "publisherId": "whitesource",
+      "extensionId": "ws-bolt",
+      "publisherName": "WhiteSource",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=whitesource.ws-bolt' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Code Search",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms.vss-code-search' target='_blank'><b>Code Search</b></a>",
+      "publisherId": "ms",
+      "extensionId": "vss-code-search",
+      "publisherName": "Microsoft",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms.vss-code-search' target='_blank'>License Terms</a>"
+    },
+    {
+      "extensionName": "Test Manager for TFS 2017 and TFS 2018",
+      "link": "<a href='https://marketplace.visualstudio.com/items?itemName=ms.vss-testmanager-web' target='_blank'><b>Test Manager for TFS 2017 and TFS 2018</b></a>",
+      "publisherId": "ms",
+      "extensionId": "vss-testmanager-web",
+      "publisherName": "Microsoft",
+      "License": "<a href='https://marketplace.visualstudio.com/items?itemName=ms.vss-testmanager-web' target='_blank'>License Terms</a>"
+    }
+  ]
+}
